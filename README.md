@@ -2,7 +2,7 @@
 
 ![タイトル](images/title.png)
 ![ゲーム画面](images/setumei.png)
-<a href="./santagame/" target"_blank">ゲームで遊ぶ</a>
+<a href="./santageme/" target"_blank">ゲームで遊ぶ</a>
 
 #操作方法
 - 画面真ん中のスタートボタンを押すとゲームスタート
