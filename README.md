@@ -2,6 +2,8 @@
 
 ![タイトル](images/title.png)
 ![ゲーム画面](images/setumei.png)
+
+
 <a href="./santageme/" target"_blank">ゲームで遊ぶ</a>
 
 
