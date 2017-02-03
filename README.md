@@ -4,7 +4,7 @@
 ![ゲーム画面](docs/images/setumei.png)
 
 
-<a href="./docs/santageme/" target="_blank">ゲームで遊ぶ</a>
+<a href="https://khtaaa.github.io/santa-game/santageme/" target="_blank">ゲームで遊ぶ</a>
 
 
 # 操作方法
