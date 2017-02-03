@@ -1,10 +1,10 @@
 # santa-game
 
-![タイトル](images/title.png)
-![ゲーム画面](images/setumei.png)
+![タイトル](docs/images/title.png)
+![ゲーム画面](docs/images/setumei.png)
 
 
-<a href="./santageme/" target="_blank">ゲームで遊ぶ</a>
+<a href="./docs/santageme/" target="_blank">ゲームで遊ぶ</a>
 
 
 # 操作方法
